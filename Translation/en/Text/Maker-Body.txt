@@ -36,7 +36,7 @@
 手首のサイズ=Wrist Size
 前腕のサイズ=Forearm Size
 ヒジのサイズ=Elbow Size
-上腕のサイズ=Forearm Size
+上腕のサイズ=Upper Arm Size
 肩のサイズ=Shoulder Size
 肩の幅=Shoulder Width
 首のサイズ=Neck Size
